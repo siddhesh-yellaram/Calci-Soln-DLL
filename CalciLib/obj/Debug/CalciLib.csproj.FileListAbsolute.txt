@@ -1,0 +1,6 @@
+D:\test\.NET\DLL\CalciSolution\CalciLib\bin\Debug\CalciLib.dll
+D:\test\.NET\DLL\CalciSolution\CalciLib\bin\Debug\CalciLib.pdb
+D:\test\.NET\DLL\CalciSolution\CalciLib\obj\Debug\CalciLib.csproj.AssemblyReference.cache
+D:\test\.NET\DLL\CalciSolution\CalciLib\obj\Debug\CalciLib.csproj.CoreCompileInputs.cache
+D:\test\.NET\DLL\CalciSolution\CalciLib\obj\Debug\CalciLib.dll
+D:\test\.NET\DLL\CalciSolution\CalciLib\obj\Debug\CalciLib.pdb
